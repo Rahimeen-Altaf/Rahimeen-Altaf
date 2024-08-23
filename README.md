@@ -1,9 +1,9 @@
-- 👩‍💻 Aspiring Developer | 🌟 Lifelong Learner | 🚀 Tech Enthusiast
+- 👩‍💻 Aspiring Full-Stack Developer | 🌟 Lifelong Learner | 🚀 Tech Enthusiast
 
-- 👋 Hi there! I'm Rahimeen, a Computer Science student on an exciting journey to explore the world of technology. I'm currently in my second year, and I'm enthusiastic about learning and growing in the tech space.
+- 👋 Hi there! I'm Rahimeen, a third-year Computer Science student passionate about exploring the world of technology. My journey began with front-end development using JavaScript and ReactJS, and now, I've expanded into full-stack development, including TypeScript, Node.js, and Express.
 
-- 🌱 I'm diving into the realms of Frontend Development, eager to turn my learning into practical projects. Join me as I share my coding adventures and progress here.
+- 🌱 I'm currently focused on building both front-end and back-end projects, eager to turn my knowledge into impactful applications. Follow along as I share my coding adventures, projects, and continuous learning journey.
 
-- 🌈 When I'm not coding, you'll find me nurturing my creativity, exploring new tech trends, and sharing my experiences.
+- 🌈 When I'm not coding, I'm either diving into the latest tech trends, nurturing my creativity, or connecting with fellow tech enthusiasts to exchange ideas and insights.
 
-- 🌟 Let's connect, learn together, and build amazing things in this tech journey!
+- 🌟 Let's connect, collaborate, and build amazing things together in this ever-evolving tech landscape!
